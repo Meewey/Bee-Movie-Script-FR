@@ -1,6 +1,6 @@
 # Bee Movie Script FR
 
-I did this at 3am this is basic python coding plz don't judge me
+I did this at 3am this is basic python programming plz don't judge me
 
 Instructions :
 - install the requirements with pip
